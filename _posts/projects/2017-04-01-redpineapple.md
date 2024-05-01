@@ -15,12 +15,12 @@ project:
 
 agency:
   title: "Red Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://github.com/paulamouroux/artropodos_valleexploradores"
   year: "2017"
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
+    url: "/assets/images/projects/bombus_terrestris/image1.jpg"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
     url: "/assets/images/projects/redpineapple/desktop.jpg"
@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p><i>Bombus terrestris </i>, también llamado aberrojo europeo, es una especie introducida de Europa para la polinización de los cultivos como el tomate o el arándano. Se naturalizó en Chile y invadió la casi totalidad del país. </p>
