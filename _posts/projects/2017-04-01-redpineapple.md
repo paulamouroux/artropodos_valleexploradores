@@ -4,11 +4,11 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Hymenoptera, bombus terrestris"
 
 project:
-  title: "Bombus terrestris"
-  type: "Jekyll"
+  title: "Bombus terrestris - abejorro europeo"
+  type: "Hymenoptera"
   url: "https://github.com/paulamouroux/artropodos_valleexploradores"
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
@@ -21,7 +21,7 @@ agency:
 images:
   - image:
     url: "/assets/images/projects/bombus_terrestris/image1.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    alt: "Obrera del abejorro europeo forrajeando una flor de lupino en Puente Circo"
   - image:
     url: "/assets/images/projects/redpineapple/desktop.jpg"
     alt: "Red Pineapple website on a desktop device"
