@@ -9,7 +9,7 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-baseurl: "paulamouroux.github.io/Artropodos_ValleExploradores/"
+baseurl: "paulamouroux.github.io/artropodos_valleexploradores/"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
