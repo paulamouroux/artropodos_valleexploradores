@@ -9,13 +9,13 @@ meta:
 project:
   title: "Bombus terrestris"
   type: "Jekyll"
-  url: "https://github.com/paulamouroux/artropodos_valleexploradores"
+  url: ""
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
   title: "Red Pineapple Co"
-  url: "https://github.com/paulamouroux/artropodos_valleexploradores"
+  url: ""
   year: "2017"
 
 images:
