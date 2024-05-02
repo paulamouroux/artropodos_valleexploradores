@@ -1,4 +1,4 @@
----
+de ---
 layout: project
 permalink: /:title/
 category: projects
@@ -21,7 +21,7 @@ agency:
 images:
   - image:
     url: "/assets/images/projects/bombus_terrestris/image1.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
   - image:
     url: "/assets/images/projects/redpineapple/desktop.jpg"
     alt: "Red Pineapple website on a desktop device"
