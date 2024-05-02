@@ -15,6 +15,7 @@ project:
 
 agency:
   title: "Red Pineapple Co"
+  url: "https://github.com/arnolds/pineapple"
   year: "2017"
 
 images:
