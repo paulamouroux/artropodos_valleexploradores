@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "bombus dahlbomii"
+  title: "Bombus dahlbomii"
   type: "Jekyll"
   url: "https://github.com/paulamouroux/artropodos_valleexploradores"
   logo: "/assets/images/projects/redpineapple/logo.png"
