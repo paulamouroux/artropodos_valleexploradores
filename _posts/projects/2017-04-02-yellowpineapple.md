@@ -9,13 +9,11 @@ meta:
 project:
   title: "Yellow Pineapple"
   type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
   title: "Yellow Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
   year: "2017, 2018"
 
 images:
