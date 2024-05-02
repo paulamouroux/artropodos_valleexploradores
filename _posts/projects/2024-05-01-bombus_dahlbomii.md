@@ -10,7 +10,7 @@ project:
   title: "Bombus dahlbomii"
   type: "Jekyll"
   url: ""
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/bombusdahlbomii/icono_bombus_dahlbomii.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
