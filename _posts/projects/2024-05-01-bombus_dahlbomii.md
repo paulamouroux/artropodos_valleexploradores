@@ -23,7 +23,7 @@ images:
     url: "/assets/images/projects/bombus_dahlbomii/image1.JPG"
     alt: "Abejorro chilena reina volando hacia una dedalera"
   - image:
-    url: "/assets/images/projects/bombus_dahlbomii/image1.JPG"
+    url: "/assets/images/projects/bombus_dahlbomii/image2.JPG"
     alt: "Abejorro chilena reina saliendo de una flor de dedalera"
   - image:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
