@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Bombus dahlbomii"
+  title: "bombus dahlbomii"
   type: "Jekyll"
   url: "https://github.com/paulamouroux/artropodos_valleexploradores"
   logo: "/assets/images/projects/redpineapple/logo.png"
@@ -23,10 +23,10 @@ images:
     url: "/assets/images/projects/bombus_dahlbomii/image1.JPG"
     alt: "Abejorro chilena reina volando hacia una dedalera"
   - image:
-    url: "/assets/images/projects/bombus_dahlbomii/image1.jpg"
+    url: "/assets/images/projects/bombus_dahlbomii/image1.JPG"
     alt: "Abejorro chilena reina saliendo de una flor de dedalera"
   - image:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p><i>Bombus dahlbomii </i>, también llamado aberrojo chileno o morcadon, es una especie nativa de Chile.</p>
+<p><i>Bombus dahlbomii </i>, también llamado aberrojo chileno o moscardon, es una especie nativa de Chile.</p>
