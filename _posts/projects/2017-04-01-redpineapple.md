@@ -1,4 +1,4 @@
-de ---
+---
 layout: project
 permalink: /:title/
 category: projects
