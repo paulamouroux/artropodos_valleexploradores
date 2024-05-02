@@ -9,6 +9,7 @@ meta:
 project:
   title: "Bombus terrestris"
   type: "Jekyll"
+  url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
