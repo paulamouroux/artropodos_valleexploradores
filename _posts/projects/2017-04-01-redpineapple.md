@@ -9,13 +9,11 @@ meta:
 project:
   title: "Bombus terrestris"
   type: "Jekyll"
-  url: ""
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
   title: "Red Pineapple Co"
-  url: ""
   year: "2017"
 
 images:
