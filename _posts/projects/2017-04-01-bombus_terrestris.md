@@ -9,8 +9,7 @@ meta:
 project:
   title: "Bombus terrestris"
   type: "Hymenoptera"
-  url: "https://github.com/paulamouroux/artropodos_valleexploradores"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/bombus_terrestris/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
