@@ -7,9 +7,9 @@ meta:
   keywords: ""
 
 project:
-  title: "Especie"
-  type: ""
-  logo: "/assets/images/projects//logo.png"
+  title: "Aegorhinus ochreolus"
+  type: "Coleoptera"
+  logo: "/assets/images/projects/aegorhinus_ochreolus/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
@@ -18,8 +18,8 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/bombus_dahlbomii/image1.JPG"
-    alt: "Abejorro chilena reina volando hacia una dedalera"
+    url: "/assets/images/projects/aegorhinus_ochreolus/image1.JPG"
+    alt: ""
   
   
 ---
