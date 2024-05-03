@@ -9,13 +9,11 @@ meta:
 project:
   title: "Bombus dahlbomii"
   type: "Jekyll"
-  url: ""
-  logo: "/assets/images/projects/bombusdahlbomii/icono_Bombus_dahlbomii.png"
+  logo: "/assets/images/projects/bombus_dahlbomii/icono_Bombus_dahlbomii.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
   title: "Red Pineapple Co"
-  url: ""
   year: "2017"
 
 images:
