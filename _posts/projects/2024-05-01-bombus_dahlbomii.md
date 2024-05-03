@@ -9,7 +9,7 @@ meta:
 project:
   title: "Bombus dahlbomii"
   type: "Jekyll"
-  logo: "/assets/images/projects/bombus_dahlbomii/icono_Bombus_dahlbomii.png"
+  logo: "/assets/images/projects/bombus_dahlbomii/icono_Bombus_dahlbomii.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
