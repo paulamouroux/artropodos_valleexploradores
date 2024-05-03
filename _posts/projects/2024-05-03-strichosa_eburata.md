@@ -7,9 +7,9 @@ meta:
   keywords: ""
 
 project:
-  title: "Especie"
-  type: ""
-  logo: "/assets/images/projects//logo.png"
+  title: "Strichosa eburata"
+  type: "Coleoptera"
+  logo: "/assets/images/projects/strichosa_eburata/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
@@ -18,8 +18,8 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/bombus_dahlbomii/image1.JPG"
-    alt: "Abejorro chilena reina volando hacia una dedalera"
+    url: "/assets/images/projects/strichosa_eburata/image1.JPG"
+    alt: ""
   
   
 ---
