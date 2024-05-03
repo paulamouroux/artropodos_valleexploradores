@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Bombus dahlbomii"
-  type: "Jekyll"
+  type: "Hymenoptera"
   logo: "/assets/images/projects/bombus_dahlbomii/icono_Bombus_dahlbomii.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
