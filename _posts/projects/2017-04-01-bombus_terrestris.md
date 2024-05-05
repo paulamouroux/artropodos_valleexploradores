@@ -8,14 +8,15 @@ meta:
 
 project:
   title: "Bombus terrestris"
-  type: "Hymenoptera"
+  subfilo: "Hexapoda"
+  orden: "Hymenoptera"
+  familia: "Apidae"
   logo: "/assets/images/projects/bombus_terrestris/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Red Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  distribucion: "Chile, Argentina"
+  conservacion: "En Peligro"
 
 images:
   - image:
