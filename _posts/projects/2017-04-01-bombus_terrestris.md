@@ -12,10 +12,10 @@ project:
   orden: "Hymenoptera"
   familia: "Apidae"
   logo: "/assets/images/projects/bombus_terrestris/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
   distribucion: "Chile, Argentina"
+  estatuto: "Introducido"
   conservacion: "En Peligro"
 
 images:
