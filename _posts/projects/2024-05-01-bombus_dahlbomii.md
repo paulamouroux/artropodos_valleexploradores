@@ -18,10 +18,10 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/bombus_dahlbomii/image1.JPG"
+    url: "/assets/images/projects/bombus_dahlbomii/image1.jpg"
     alt: "Abejorro chilena reina volando hacia una dedalera"
   - image:
-    url: "/assets/images/projects/bombus_dahlbomii/image2.JPG"
+    url: "/assets/images/projects/bombus_dahlbomii/image2.jpg"
     alt: "Abejorro chilena reina saliendo de una flor de dedalera"
 ---
 <p><i>Bombus dahlbomii </i>, también llamado abejorro chileno o moscardon, es una especie nativa de Chile.</p>
