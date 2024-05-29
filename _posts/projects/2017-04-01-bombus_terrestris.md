@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/bombus_terrestris/image1.jpg"
+    url: "/assets/images/projects/bombus_terrestris/image1.JPG"
     alt: "Obrera del abejorro europeo forrajeando flores de lupino"
 
 ---
