@@ -39,6 +39,7 @@
 						{% for image in page.images %}
 						<li>
 							<img src="{{ image.url | prepend: site.baseurl }}" alt="{{ image.alt }}" />
+							<p>{{image.sub}}</p>
 						</li>
 						{% endfor %}
 					</ul>
