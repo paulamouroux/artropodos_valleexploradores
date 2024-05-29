@@ -22,11 +22,6 @@ images:
   - image:
     url: "/assets/images/projects/bombus_terrestris/image1.jpg"
     alt: "Obrera del abejorro europeo forrajeando flores de lupino"
-  - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
+
 ---
-<p><i>Bombus terrestris </i>, también llamado abejorro europeo, es una especie introducida de Europa para la polinización de los cultivos como el tomate o el arándano. Se naturalizó en Chile y invadió la casi totalidad del país. </p>
+<p><i>Bombus terrestris </i>, también llamado abejorro europeo, es una especie introducida de Europa para la polinización de los cultivos como el tomate o el arándano. Se naturalizó en Chile e invadió la casi totalidad del país. </p>
