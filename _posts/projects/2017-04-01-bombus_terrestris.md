@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p><i>Bombus terrestris </i>, también llamado aberrojo europeo, es una especie introducida de Europa para la polinización de los cultivos como el tomate o el arándano. Se naturalizó en Chile y invadió la casi totalidad del país. </p>
+<p><i>Bombus terrestris </i>, también llamado abejorro europeo, es una especie introducida de Europa para la polinización de los cultivos como el tomate o el arándano. Se naturalizó en Chile y invadió la casi totalidad del país. </p>
