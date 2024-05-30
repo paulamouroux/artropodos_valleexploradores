@@ -11,7 +11,7 @@ project:
   subfilo: "Hexapoda"
   orden: "Diptera"
   familia: "Apidae"
-  logo: "/assets/images/projects/Dasybasis testaceomaculata/logo.png"
+  logo: "/assets/images/projects/dasybasis_testaceomaculata/logo.png"
 
 agency:
   distribucion: "Chile, Argentina"
