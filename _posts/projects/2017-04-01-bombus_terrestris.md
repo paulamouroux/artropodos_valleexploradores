@@ -14,9 +14,9 @@ project:
   logo: "/assets/images/projects/bombus_terrestris/logo.png"
 
 agency:
-  distribucion: "Chile, Argentina"
+  distribucion: "Mundial"
   estatuto: "Introducido"
-  conservacion: "En Peligro"
+  conservacion: "-"
 
 images:
   - image:
