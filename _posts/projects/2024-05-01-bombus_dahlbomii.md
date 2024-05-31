@@ -10,8 +10,8 @@ project:
   title: "Bombus dahlbomii"
   type: "Hymenoptera"
   subfilo: "Hexapoda"
-  orden:"Hymenoptera"
-  familia:"Apidae"
+  orden: "Hymenoptera"
+  familia: "Apidae"
   logo: "/assets/images/projects/bombus_dahlbomii/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
