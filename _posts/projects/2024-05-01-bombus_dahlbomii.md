@@ -9,6 +9,9 @@ meta:
 project:
   title: "Bombus dahlbomii"
   type: "Hymenoptera"
+  subfilo: "Hexapoda"
+  orden:"Hymenoptera"
+  familia:"Apidae"
   logo: "/assets/images/projects/bombus_dahlbomii/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
@@ -18,6 +21,7 @@ agency:
 
 images:
   - image:
+    sub: "Abejorro Chilena reina forrajeando pólen de Fuchsia magallanica"
     url: "/assets/images/projects/bombus_dahlbomii/image1.jpg"
     alt: "Abejorro chilena reina volando hacia una dedalera"
   - image:
