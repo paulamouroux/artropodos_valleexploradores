@@ -16,7 +16,7 @@ project:
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Red Pineapple Co"
+  distribucion: "America del Sur y Centro América"
   year: "2017"
 
 images:
