@@ -16,7 +16,8 @@ project:
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  distribucion: "America del Sur y Centro América"
+  distribucion: "America del Sur"
+  estatuto: "Nativo"
   year: "2017"
 
 images:
