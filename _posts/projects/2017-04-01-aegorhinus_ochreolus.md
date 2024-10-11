@@ -8,8 +8,8 @@ meta:
 
 project:
   title: "Aegorhinus ochreolus"
-  orden: "Hymenoptera"
   subfilo: "Hexapoda"
+  orden: "Hymenoptera"
   familia: "Apidae"
   logo: "/assets/images/projects/aegorhinus_ochreolus/logo.png"
 
