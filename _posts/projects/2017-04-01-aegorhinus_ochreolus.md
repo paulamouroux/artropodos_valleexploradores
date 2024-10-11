@@ -20,8 +20,8 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/aegorhinus_ochreolus/image1.jpg"
-    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
+    url: "assets/images/projects/aegorhinus_ochreolus/logo.png"
+    alt: "Burrito caminando por tronco"
   
 ---
 <p><i>aegorhinus_ochreolus </i> cambiar </p>
