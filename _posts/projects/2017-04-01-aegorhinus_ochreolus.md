@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "assets/images/projects/aegorhinus_ochreolus/large.jpeg"
+    url: "assets/images/projects/aegorhinus_ochreolus/2largePC1.jpg"
     alt: "Burrito caminando por tronco"
   
 ---
