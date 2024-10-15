@@ -23,5 +23,10 @@ images:
     url: "/assets/images/projects/aegorhinus_ochreolus/2largePC1.jpg"
     alt: "Burrito caminando por tronco"
     sub: "Burrito caminando por tronco"
+
+    - image:
+    url: "/assets/images/projects/aegorhinus_ochreolus/large.jpeg"
+    alt: "Burrito apareandose"
+    sub: "Burrito apareándose"
 ---
-<p><i>Aegorhinus ochreolus</i>, un dato interesante de Aegorhinus ochreolus es que a pesar de ser una plaga agrícola, este insecto tiene una capacidad extraordinaria para sobrevivir en condiciones muy diversas, incluyendo suelos pobres y duros, lo que dificulta su control y manejo en zonas afectadas. </p>
+<p><i>Aegorhinus ochreolus</i>, un dato interesante de esta especie es que a pesar de ser una plaga agrícola, este insecto tiene una capacidad extraordinaria para sobrevivir en condiciones muy diversas, incluyendo suelos pobres y duros, lo que dificulta su control y manejo en zonas afectadas. </p>
