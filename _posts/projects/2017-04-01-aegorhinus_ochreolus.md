@@ -15,7 +15,7 @@ project:
 
 agency:
   distribucion: "Chile, Argentina"
-  estatuto: "Introducido"
+  estatuto: "Nativo"
   conservacion: "En Peligro"
   
 images:
@@ -31,4 +31,4 @@ images:
     alt: "Burritos apareándose"
     sub: "Burritos apareándose"
 ---
-<p><i>Aegorhinus ochreolus</i>, es un coleóptero endémico de Chile, que habita principalmente en bosques nativos de Chile y Argentina. Aunque no tiene importancia como plaga agrícola, pertenece a la misma familia del conocido "burrito de la vid" (<i>Naupactus xanthographus</i>), una especie que sí es reconocida por causar daños tanto en cultivos agrícolas como en áreas forestales.</p>
+<p><i>Aegorhinus ochreolus</i>, es un coleóptero nativo de Chile, que habita principalmente en bosques del sur de Chile y Argentina. Aunque no tiene importancia como plaga agrícola, pertenece a la misma familia del conocido "burrito de la vid" (<i>Naupactus xanthographus</i>), una especie que sí es reconocida por causar daños tanto en cultivos agrícolas como en áreas forestales.</p>
