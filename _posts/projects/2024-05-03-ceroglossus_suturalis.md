@@ -8,19 +8,22 @@ meta:
 
 project:
   title: "Ceroglossus suturalis"
-  type: "Coleoptera"
+  subfilo: "Hexapoda"
+  orden: "Coleoptera"
+  familia: "Carabidae"
   logo: "/assets/images/projects/ceroglossus_suturalis/logo2.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Red Pineapple Co"
-  year: "2017"
+  distribucion: "Chile y Argentina"
+  estatuto: "Nativo"
+  conservacion: "-"
 
 images:
   - image:
-    url: "/assets/images/projects/ceroglossus_suturalis/image1.JPG"
+    url: "/assets/images/projects/ceroglossus_suturalis/original1.jpeg"
     alt: "leyenda"
+    sub: "DESCRIPCION"
   
   
 ---
-<p><i>nombre comun </i></p>
+<p><i>Ceroglossus suturalis</i></p>
