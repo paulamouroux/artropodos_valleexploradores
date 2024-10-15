@@ -9,7 +9,7 @@ meta:
 project:
   title: "Chenoderus testaceus"
   type: "Coleoptera"
-  logo: "/assets/images/projects/chenoderus_testaceus/logo.png"
+  logo: "/assets/images/projects/chenoderus_testaceus/logo2.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
