@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: ""
+  keywords: "Jekyll, Pineapple"
 
 project:
   title: "Frickius variolosus"
@@ -19,10 +19,10 @@ agency:
   conservacion: "-"
 
 images:
+-image:
  url: "/assets/images/projects/frickius_variolosus/DSC_0464.JPG"
  alt: "Obrera del abejorro europeo forrajeando flores de lupino"
  sub: "Obrera del abejorro europeo robando nectar de flores de Fuchsia magallanica"
-  
-  
+   
 ---
 <p><i>nombre comun </i></p>
