@@ -11,7 +11,7 @@ project:
   subfilo: "Hexapoda"
   orden: "Hymenoptera"
   familia: "Apidae"
-  logo: "/assets/images/projects/aegorhinus_ochreolus/logo.png"
+  logo: "assets/images/projects/aegorhinus_ochreolus/large.jpeg"
 
 agency:
   distribucion: "Chile, Argentina"
@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "assets/images/projects/aegorhinus_ochreolus/logo.png"
+    url: "assets/images/projects/aegorhinus_ochreolus/large.jpeg"
     alt: "Burrito caminando por tronco"
   
 ---
