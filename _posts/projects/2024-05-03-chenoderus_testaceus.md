@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Chenoderus testaceus"
-  subfilo:"Hexapoda"
+  subfilo: "Hexapoda"
   orden: "Coleoptera"
   familia: "Cerambycidae"
   logo: "/assets/images/projects/chenoderus_testaceus/logo2.png"
