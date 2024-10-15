@@ -8,19 +8,22 @@ meta:
 
 project:
   title: "Chenoderus testaceus"
-  type: "Coleoptera"
+  subfilo:"Hexapoda"
+  orden: "Coleoptera"
+  familia: "Cerambycidae"
   logo: "/assets/images/projects/chenoderus_testaceus/logo2.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
+  
 agency:
-  title: "Red Pineapple Co"
-  year: "2017"
+  distribucion: "Chile y Argentina"
+  estatuto: "Nativo"
+  conservacion: "-"
 
 images:
   - image:
     url: "/assets/images/projects/chenoderus_testaceus/image1.JPG"
     alt: ""
+    sub: "DESCRPCION DE IMAGEN"
   
   
 ---
-<p><i>nombre comun </i></p>
+<p><i>Chenoderus testaceus</i></p>
