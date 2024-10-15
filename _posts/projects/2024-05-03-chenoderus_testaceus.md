@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/chenoderus_testaceus/image1.JPG"
+    url: "/assets/images/projects/chenoderus_testaceus/DSC_0685.JPG"
     alt: "DESCRPCION DE IMAGEN"
     sub: "DESCRPCION DE IMAGEN"
   
