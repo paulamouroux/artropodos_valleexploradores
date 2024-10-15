@@ -9,7 +9,7 @@ meta:
 project:
   title: "Frickius variolosus"
   subfilo: "Hexapoda"
-  orden: "Coleoptera
+  orden: "Coleoptera"
   familia: "Geotrupidae"
   logo: "/assets/images/projects/frickius_variolosus/logo2.png"
 
