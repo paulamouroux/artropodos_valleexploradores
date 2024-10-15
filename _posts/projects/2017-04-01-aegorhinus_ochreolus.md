@@ -10,7 +10,7 @@ project:
   title: "Aegorhinus ochreolus"
   subfilo: "Hexapoda"
   orden: "Hymenoptera"
-  familia: "Apidae"
+  familia: "Curculionidae"
   logo: "assets/images/projects/aegorhinus_ochreolus/logo.png"
 
 agency:
@@ -24,4 +24,4 @@ images:
     alt: "Burrito caminando por tronco"
     sub: "Burrito caminando por tronco"
 ---
-<p><i>Aegorhinus ochreolus </i>, Un dato interesante de Aegorhinus ochreolus es que a pesar de ser una plaga agrícola, este insecto tiene una capacidad extraordinaria para sobrevivir en condiciones muy diversas, incluyendo suelos pobres y duros, lo que dificulta su control y manejo en zonas afectadas. </p>
+<p><i>Aegorhinus ochreolus</i>, un dato interesante de Aegorhinus ochreolus es que a pesar de ser una plaga agrícola, este insecto tiene una capacidad extraordinaria para sobrevivir en condiciones muy diversas, incluyendo suelos pobres y duros, lo que dificulta su control y manejo en zonas afectadas. </p>
