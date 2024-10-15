@@ -8,18 +8,21 @@ meta:
 
 project:
   title: "Semiotus luteipennis"
-  type: "Coleoptera"
+  subfilo: "Hexapoda"
+  orden: "Hymenoptera"
+  familia: "Apidae"
   logo: "/assets/images/projects/semiotus_luteipennis/logo2.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Red Pineapple Co"
-  year: "2017"
+  distribucion: "Mundial"
+  estatuto: "Introducido"
+  conservacion: "-"
 
 images:
   - image:
-    url: "/assets/images/projects/semiotus_luteipennis/image1.JPG"
-    alt: ""
+    url: "/assets/images/projects/semiotus_luteipennis/original.jpg"
+    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
+    sub: "Obrera del abejorro europeo robando nectar de flores de Fuchsia magallanica"
   
   
 ---
