@@ -8,10 +8,11 @@ meta:
 
 project:
   title: "Strichosa eburata"
-  type: "Coleoptera"
+  subfilo: "Hexapoda"
+  orden: "Coleoptera"
+  familia:
   logo: "/assets/images/projects/strichosa_eburata/logo2.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
+  
 agency:
   title: "Red Pineapple Co"
   year: "2017"
