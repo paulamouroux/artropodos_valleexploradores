@@ -21,7 +21,7 @@ agency:
 images:
   - image:
     url: "/assets/images/projects/chenoderus_testaceus/image1.JPG"
-    alt: ""
+    alt: "DESCRPCION DE IMAGEN"
     sub: "DESCRPCION DE IMAGEN"
   
   
