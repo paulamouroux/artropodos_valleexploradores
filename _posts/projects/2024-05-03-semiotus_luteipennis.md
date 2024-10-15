@@ -9,8 +9,8 @@ meta:
 project:
   title: "Semiotus luteipennis"
   subfilo: "Hexapoda"
-  orden: "Hymenoptera"
-  familia: "Apidae"
+  orden: "Coleoptera"
+  familia: "Elateridae"
   logo: "/assets/images/projects/semiotus_luteipennis/logo2.png"
 
 agency:
