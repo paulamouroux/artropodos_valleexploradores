@@ -17,7 +17,6 @@ agency:
   distribucion: "Chile, Argentina"
   estatuto: "Introducido"
   conservacion: "En Peligro"
-
 images:
   - image:
     url: "/assets/images/projects/aegorhinus_ochreolus/2largePC1.jpg"
