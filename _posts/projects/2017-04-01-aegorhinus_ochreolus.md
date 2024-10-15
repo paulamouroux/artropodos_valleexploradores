@@ -11,7 +11,7 @@ project:
   subfilo: "Hexapoda"
   orden: "Hymenoptera"
   familia: "Curculionidae"
-  logo: "assets/images/projects/aegorhinus_ochreolus/logo.png"
+  logo: "/assets/images/projects/aegorhinus_ochreolus/logo.png"
 
 agency:
   distribucion: "Chile, Argentina"
