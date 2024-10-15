@@ -17,12 +17,12 @@ agency:
   distribucion: "Chile, Argentina"
   estatuto: "Introducido"
   conservacion: "En Peligro"
+  
 images:
   - image:
     url: "/assets/images/projects/aegorhinus_ochreolus/2largePC1.jpg"
     alt: "Burrito caminando por tronco"
     sub: "Burrito caminando por tronco"
-
     - image:
     url: "/assets/images/projects/aegorhinus_ochreolus/large.jpeg"
     alt: "Burrito apareandose"
