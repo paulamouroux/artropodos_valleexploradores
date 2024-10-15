@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Bombus dahlbomii"
+  title: "<i>Bombus dahlbomii</i>"
   type: "Hymenoptera"
   subfilo: "Hexapoda"
   orden: "Hymenoptera"
