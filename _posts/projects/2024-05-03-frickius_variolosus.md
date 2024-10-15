@@ -9,7 +9,7 @@ meta:
 project:
   title: "Frickius variolosus"
   type: "Coleoptera"
-  logo: "/assets/images/projects/frickius_variolosus/logo.png"
+  logo: "/assets/images/projects/frickius_variolosus/logo2.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
