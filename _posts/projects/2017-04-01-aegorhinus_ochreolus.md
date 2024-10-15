@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Aegorhinus ochreolus"
+  title: "<i>Aegorhinus ochreolus</i>"
   subfilo: "Hexapoda"
   orden: "Hymenoptera"
   familia: "Curculionidae"
