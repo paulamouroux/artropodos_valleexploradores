@@ -8,18 +8,20 @@ meta:
 
 project:
   title: "Frickius variolosus"
-  type: "Coleoptera"
+  subfilo: "Coleoptera"
+  orden:
+  familia:
   logo: "/assets/images/projects/frickius_variolosus/logo2.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Red Pineapple Co"
-  year: "2017"
+  distribucion: "Mundial"
+  estatuto: "Introducido"
+  conservacion: "-"
 
 images:
-  - image:
-    url: "/assets/images/projects/frickius_variolosus/image1.JPG"
-    alt: ""
+ url: "/assets/images/projects/frickius_variolosus/DSC_0464.JPG"
+ alt: "Obrera del abejorro europeo forrajeando flores de lupino"
+ sub: "Obrera del abejorro europeo robando nectar de flores de Fuchsia magallanica"
   
   
 ---
