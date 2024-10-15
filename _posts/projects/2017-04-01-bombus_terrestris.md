@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Bombus terrestris"
+  title: "<i>Bombus terrestris</i>"
   subfilo: "Hexapoda"
   orden: "Hymenoptera"
   familia: "Apidae"
