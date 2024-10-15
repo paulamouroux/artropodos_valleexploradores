@@ -22,7 +22,7 @@ images:
   - image:
     url: "/assets/images/projects/aegorhinus_ochreolus/2largePC1.jpg"
     alt: "Burrito caminando por tronco"
-    sub: "Burrito caminando por tronco"
+    sub: "Burritos caminando por tronco"
   - image:
     url: "/assets/images/projects/aegorhinus_ochreolus/largePC1.jpg"
     alt: "Burrito caminando por tronco"
