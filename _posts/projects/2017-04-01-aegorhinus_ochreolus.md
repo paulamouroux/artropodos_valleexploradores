@@ -11,7 +11,7 @@ project:
   subfilo: "Hexapoda"
   orden: "Hymenoptera"
   familia: "Apidae"
-  logo: "assets/images/projects/aegorhinus_ochreolus/large.jpeg"
+  logo: "assets/images/projects/aegorhinus_ochreolus/logo.png"
 
 agency:
   distribucion: "Chile, Argentina"
