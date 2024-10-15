@@ -9,7 +9,7 @@ meta:
 project:
   title: "Semiotus luteipennis"
   type: "Coleoptera"
-  logo: "/assets/images/projects/semiotus_luteipennis/logo.png"
+  logo: "/assets/images/projects/semiotus_luteipennis/logo2.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
