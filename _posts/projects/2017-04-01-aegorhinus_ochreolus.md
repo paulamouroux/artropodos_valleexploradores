@@ -28,4 +28,4 @@ images:
     alt: "Burrito apareándose"
     sub: "Burrito apareándose"
 ---
-<p><i>Aegorhinus ochreolus</i>, un dato interesante de esta especie es que a pesar de ser una plaga agrícola, este insecto tiene una capacidad extraordinaria para sobrevivir en condiciones muy diversas, incluyendo suelos pobres y duros, lo que dificulta su control y manejo en zonas afectadas. </p>
+<p><i>Aegorhinus ochreolus</i>, es un coleóptero endémico de Chile, que habita principalmente en bosques nativos de Chile y Argentina. Aunque no tiene importancia como plaga agrícola, pertenece a la misma familia del conocido "burrito de la vid" (<i>Naupactus xanthographus</i>), una especie que sí es reconocida por causar daños tanto en cultivos agrícolas como en áreas forestales.</p>
