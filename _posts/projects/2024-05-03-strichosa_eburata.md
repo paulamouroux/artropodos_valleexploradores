@@ -9,7 +9,7 @@ meta:
 project:
   title: "Strichosa eburata"
   type: "Coleoptera"
-  logo: "/assets/images/projects/strichosa_eburata/logo.png"
+  logo: "/assets/images/projects/strichosa_eburata/logo2.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
