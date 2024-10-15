@@ -9,7 +9,7 @@ meta:
 project:
   title: "Ceroglossus suturalis"
   type: "Coleoptera"
-  logo: "/assets/images/projects/ceroglossus_suturalis/logo.png"
+  logo: "/assets/images/projects/ceroglossus_suturalis/logo2.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
