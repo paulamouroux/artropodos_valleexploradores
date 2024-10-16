@@ -8,20 +8,22 @@ meta:
 
 project:
   title: "Dolichochaeta"
+  type: "Orthoptera"
   subfilo: "Hexapoda"
   orden: "Orthoptera"
-  familia: "Apidae"
+  familia: "Anostostomatidae"
   logo: "/assets/images/projects/dolichochaeta/logo.png"
 
 agency:
-  distribucion: "Chile, Argentina"
-  estatuto: "Introducido"
-  conservacion: "En Peligro"
+  distribucion: "COMPLETAR"
+  estatuto: "COMPLETAR"
+  conservacion: "COMPLETAR"
 
 images:
   - image:
-    url: "/assets/images/projects/dolichochaeta/logo.png"
-    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
+    url: "/assets/images/projects/dolichochaeta/DSC_0054_Anostostomatidae.jpg"
+    alt: "COMPLETAR"
+    sub: "COMPLETAR"
   
 ---
 <p><i>Dolichochaeta</i> completar </p>
