@@ -21,7 +21,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/trichoptera/image1.jpg"
+    url: "/assets/images/projects/trichoptera/DSC_0021_Trichoptera.JPG"
     alt: "COMPLETAR"
     sub: "COMPLETAR"
   
