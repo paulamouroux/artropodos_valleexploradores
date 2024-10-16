@@ -21,9 +21,14 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/heteromallus_spinifer/logo.png"
+    url: "/assets/images/projects/heteromallus_spinifer/BE0293_femelle.jpg"
     alt: "COMPLETAR"
-    sub: "COMPLETAR"
+    sub: "Hembra"
+
+    - image:
+    url: "/assets/images/projects/heteromallus_spinifer/BE0293_male.jpg"
+    alt: "COMPLETAR"
+    sub: "Macho"
   
 ---
 <p><i>Heteromallus spinifer</i> completar </p>
