@@ -8,8 +8,9 @@ meta:
 
 project:
   title: "<i>Aegorhinus ochreolus</i>"
+  type: "Coleoptera"
   subfilo: "Hexapoda"
-  orden: "Hymenoptera"
+  orden: "Coleoptera"
   familia: "Curculionidae"
   logo: "/assets/images/projects/aegorhinus_ochreolus/logo.png"
 
