@@ -8,20 +8,22 @@ meta:
 
 project:
   title: "Tipulidae"
+  type: "Diptera"
   subfilo: "Hexapoda"
   orden: "Diptera"
-  familia: "Apidae"
+  familia: "Tipulidae"
   logo: "/assets/images/projects/tipulidae/logo.png"
 
 agency:
-  distribucion: "Chile, Argentina"
+  distribucion: "Mundial"
   estatuto: "Introducido"
-  conservacion: "En Peligro"
+  conservacion: "COMPLETAR"
 
 images:
   - image:
-    url: "/assets/images/projects/tipulidae/image1.jpg"
-    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
+    url: "/assets/images/projects/tipulidae/DSC_0045_Tipulidae.jpg"
+    alt: "COMPLETAR"
+    sub: "COMPLETAR"
   
 ---
 <p><i>nombre especie</i> completar </p>
