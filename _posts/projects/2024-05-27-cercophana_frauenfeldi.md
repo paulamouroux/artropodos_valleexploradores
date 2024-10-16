@@ -21,7 +21,7 @@ agency:
 
 images:
   - image:
-    url: "assets/images/projects/cercophana_frauenfeldi/DSC_0233.JPG"
+    url: "/assets/images/projects/cercophana_frauenfeldi/DSC_0233.JPG"
     alt: "COMPLETAR"
     sub: "COMPLETAR"
   
