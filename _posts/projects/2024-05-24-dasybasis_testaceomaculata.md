@@ -8,21 +8,22 @@ meta:
 
 project:
   title: "Dasybasis testaceomaculata"
+  tipe: "Diptera"
   subfilo: "Hexapoda"
   orden: "Diptera"
-  familia: "Apidae"
+  familia: "Tabanidae"
   logo: "/assets/images/projects/dasybasis_testaceomaculata/logo.png"
 
 agency:
   distribucion: "Chile, Argentina"
-  estatuto: "Introducido"
-  conservacion: "En Peligro"
+  estatuto: "COMPLETAR"
+  conservacion: "COMPLETAR"
 
 images:
   - image:
-    url: "/assets/images/projects/Dasybasis testaceomaculata/image1.jpg"
-    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
+    url: "/assets/images/projects/Dasybasis testaceomaculata/DSC_0038.jpg"
+    alt: "COMPLETAR"
+    sub: "COMPLETAR"
   
 ---
 <p><i>Dasybasis testaceomaculata</i> completar </p>
-
