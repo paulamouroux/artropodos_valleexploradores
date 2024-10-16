@@ -12,7 +12,7 @@ project:
   subfilo: "Hexapoda"
   orden: "Coleoptera"
   familia: "Lucanidae"
-  logo: "/assets/images/projects/erichus_femoralis/logo2.png"
+  logo: "/assets/images/projects/erichius_femoralis/logo2.png"
 
 agency:
   distribucion: "Chile, Argentina"
