@@ -24,7 +24,6 @@ images:
     url: "/assets/images/projects/heteromallus_spinifer/BE0293_femelle.jpg"
     alt: "COMPLETAR"
     sub: "Hembra"
-
     - image:
     url: "/assets/images/projects/heteromallus_spinifer/BE0293_male.jpg"
     alt: "COMPLETAR"
