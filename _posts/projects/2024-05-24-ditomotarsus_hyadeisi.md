@@ -8,9 +8,10 @@ meta:
 
 project:
   title: "Ditomotarsus hyadesi"
+  type: "Hemiptera"
   subfilo: "Hexapoda"
-  orden: "Hymenoptera"
-  familia: "Apidae"
+  orden: "Hemiptera"
+  familia: "Acanthosomatidae"
   logo: "/assets/images/projects/ditomotarsus_hyadesi/logo.png"
 
 agency:
@@ -20,7 +21,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/ditomotarsus_hyadesi/logo.png"
+    url: "/assets/images/projects/ditomotarsus_hyadesi/DSC_0447.JPG"
     alt: "Obrera del abejorro europeo forrajeando flores de lupino"
   
 ---
