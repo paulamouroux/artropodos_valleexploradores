@@ -8,25 +8,22 @@ meta:
 
 project:
   title: "Erichius femoralis"
-  subfilo: 
-  orden
-  familia:
-  logo: "/assets/images/projects/erichus_femoralis/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  type: "Coleoptera"
+  subfilo: "Hexapoda"
+  orden: "Coleoptera"
+  familia: "Lucanidae"
+  logo: "/assets/images/projects/erichus_femoralis/logo2.png"
 
 agency:
-  Distribución: "Red Pineapple Co"
-  year: "2017"
+  distribucion: "Chile, Argentina"
+  estatuto: "COMPLETAR"
+  conservacion: "COMPLETAR"
 
 images:
   - image:
-    url: "/assets/images/projects/erichus_femoralis/logo.png"
+    url: "/assets/images/projects/erichius_femoralis/inatDSC_0502.jpg"
     alt: "descripcion"
-  - image:
-    url: "/assets/images/projects/bombus_dahlbomii/image2.JPG"
-    alt: "descripcion"
-  - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "descripcion"
+    sub: "COMPLETAR"
+    
 ---
 <p><i> Erichius femoralis </i>, descripción.</p>
