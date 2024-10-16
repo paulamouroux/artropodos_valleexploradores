@@ -8,20 +8,22 @@ meta:
 
 project:
   title: "Heteromallus spinifer"
+  type: "Orthoptera"
   subfilo: "Hexapoda"
   orden: "Orthoptera"
-  familia: "Apidae"
+  familia: "Rhaphidophoridae"
   logo: "/assets/images/projects/heteromallus_spinifer/logo.png"
 
 agency:
-  distribucion: "Chile, Argentina"
-  estatuto: "Introducido"
-  conservacion: "En Peligro"
+  distribucion: "Chile"
+  estatuto: "Endémico"
+  conservacion: "COMPLETAR"
 
 images:
   - image:
     url: "/assets/images/projects/heteromallus_spinifer/logo.png"
-    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
+    alt: "COMPLETAR"
+    sub: "COMPLETAR"
   
 ---
 <p><i>Heteromallus spinifer</i> completar </p>
