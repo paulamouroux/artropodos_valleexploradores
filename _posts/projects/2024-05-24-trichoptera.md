@@ -8,9 +8,10 @@ meta:
 
 project:
   title: "Trichoptera"
+  type: ""
   subfilo: ""
   orden: ""
-  familia: "Apidae"
+  familia: ""
   logo: "/assets/images/projects/trichoptera/logo.png"
 
 agency:
@@ -21,8 +22,8 @@ agency:
 images:
   - image:
     url: "/assets/images/projects/trichoptera/image1.jpg"
-    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
+    alt: "COMPLETAR"
+    sub: "COMPLETAR"
   
 ---
 <p><i>Trichoptera</i> completar </p>
-
