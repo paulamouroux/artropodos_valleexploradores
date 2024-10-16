@@ -4,24 +4,27 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: ""
+  keywords: "Jekyll, Pineapple"
 
 project:
   title: "Strichosa eburata"
+  type: "Coleoptera"
   subfilo: "Hexapoda"
   orden: "Coleoptera"
-  familia:
+  familia: "Chrisomelidae"
   logo: "/assets/images/projects/strichosa_eburata/logo2.png"
   
 agency:
-  title: "Red Pineapple Co"
-  year: "2017"
+  distribucion: "Chile, Argentina"
+  estatuto: "COMPLETAR"
+  conservacion: "COMPLETAR"
 
 images:
   - image:
-    url: "/assets/images/projects/strichosa_eburata/image1.JPG"
-    alt: ""
+    url: "/assets/images/projects/strichosa_eburata/large.jpg"
+    alt: "des"
+    sub: "COMPLETAR"
   
   
 ---
-<p><i>nombre comun </i></p>
+<p><i>nombre comun</i></p>, COMPLETAR
