@@ -10,18 +10,19 @@ project:
   title: "Traychirus"
   subfilo: "Hexapoda"
   orden: "Opiliones"
-  familia: "Apidae"
+  familia: "Gonyleptidae"
   logo: "/assets/images/projects/traychirus/logo.png"
 
 agency:
-  distribucion: "Chile, Argentina"
-  estatuto: "Introducido"
-  conservacion: "En Peligro"
+  distribucion: "COMPLETAR"
+  estatuto: "COMPLETAR"
+  conservacion: "COMPLETAR"
 
 images:
   - image:
-    url: "/assets/images/projects/traychirus/logo.png"
-    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
+    url: "assets/images/projects/traychirus/DSC_0033_Opilión (Thrasychirus sp.).jpg"
+    alt: "COMPLETAR"
+    sub: "COMPLETAR"
   
 ---
 <p><i>Traychirus</i> completar </p>
