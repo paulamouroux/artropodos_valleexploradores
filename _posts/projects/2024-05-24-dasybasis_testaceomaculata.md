@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Dasybasis testaceomaculata"
-  tipe: "Diptera"
+  type: "Diptera"
   subfilo: "Hexapoda"
   orden: "Diptera"
   familia: "Tabanidae"
