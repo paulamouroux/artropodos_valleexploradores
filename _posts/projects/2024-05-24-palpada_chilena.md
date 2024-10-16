@@ -8,21 +8,22 @@ meta:
 
 project:
   title: "Palpada chilena"
+  type: "Diptera"
   subfilo: "Hexapoda"
   orden: "Diptera"
-  familia: "Apidae"
+  familia: "Syrphidae"
   logo: "/assets/images/projects/palpada_chilena/logo.png"
 
 agency:
-  distribucion: "Chile, Argentina"
-  estatuto: "Introducido"
-  conservacion: "En Peligro"
+  distribucion: "Chile"
+  estatuto: "COMPLETAR"
+  conservacion: "COMPLETAR"
 
 images:
   - image:
-    url: "/assets/images/projects/palpada_chilena/image1.jpg"
-    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
-  
+    url: "/assets/images/projects/palpada_chilena/large.jpeg"
+    alt: "COMPLETAR"
+    sub: "COMPLETAR"
+    
 ---
 <p><i>Palpada chilena</i> completar </p>
-
