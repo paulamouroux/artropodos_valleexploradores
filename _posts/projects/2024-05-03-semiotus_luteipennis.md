@@ -8,6 +8,7 @@ meta:
 
 project:
   title: "Semiotus luteipennis"
+  type: "Coleoptera"
   subfilo: "Hexapoda"
   orden: "Coleoptera"
   familia: "Elateridae"
