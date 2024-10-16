@@ -21,7 +21,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/ditomotarsus_hyadesi/DSC_0447.JPG"
+    url: "/assets/images/projects/ditomotarsus_hyadesi/DSC_0443.JPG"
     alt: "Obrera del abejorro europeo forrajeando flores de lupino"
   
 ---
