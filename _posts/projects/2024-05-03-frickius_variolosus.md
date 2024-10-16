@@ -8,6 +8,7 @@ meta:
 
 project:
   title: "Frickius variolosus"
+  type: "Coleoptera"
   subfilo: "Hexapoda"
   orden: "Coleoptera"
   familia: "Geotrupidae"
