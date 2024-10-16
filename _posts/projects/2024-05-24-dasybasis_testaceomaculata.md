@@ -21,7 +21,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/Dasybasis testaceomaculata/DSC_0038.jpg"
+    url: "/assets/images/projects/Dasybasis testaceomaculata/large.jpeg"
     alt: "COMPLETAR"
     sub: "COMPLETAR"
   
