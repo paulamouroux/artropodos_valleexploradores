@@ -8,6 +8,7 @@ meta:
 
 project:
   title: "<i>Bombus terrestris</i>"
+  type: "Hymenoptera"
   subfilo: "Hexapoda"
   orden: "Hymenoptera"
   familia: "Apidae"
