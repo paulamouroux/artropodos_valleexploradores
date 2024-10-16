@@ -8,20 +8,22 @@ meta:
 
 project:
   title: "Cercophana frauenfeldi"
+  type: "Lepidoptera"
   subfilo: "Hexapoda"
   orden: "Lepidoptera"
-  familia: "Apidae"
+  familia: "Saturniidae"
   logo: "/assets/images/projects/cercophana_frauenfeldi/logo.png"
 
 agency:
-  distribucion: "Chile, Argentina"
-  estatuto: "Introducido"
-  conservacion: "En Peligro"
+  distribucion: "COMPLETAR"
+  estatuto: "COMPLETAR"
+  conservacion: "COMPLETAR"
 
 images:
   - image:
-    url: "/assets/images/projects/cercophana_frauenfeldi/logo.jpg"
-    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
+    url: "assets/images/projects/cercophana_frauenfeldi/DSC_0233.JPG"
+    alt: "COMPLETAR"
+    sub: "COMPLETAR"
   
 ---
 <p><i>Cercophana frauenfeldi</i> completar </p>
