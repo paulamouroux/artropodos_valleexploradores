@@ -8,20 +8,22 @@ meta:
 
 project:
   title: "Rhionaeschna variegata"
+  type: "Odonata"
   subfilo: "Hexapoda"
   orden: "Odonata"
-  familia: "Apidae"
+  familia: "Aeshnidae"
   logo: "/assets/images/projects/rhionaeschna_variegata/logo.png"
 
 agency:
   distribucion: "Chile, Argentina"
-  estatuto: "Introducido"
-  conservacion: "En Peligro"
+  estatuto: "COMPLETAR"
+  conservacion: "COMPLETAR"
 
 images:
   - image:
-    url: "/assets/images/projects/rhionaeschna_variegata/logo.png"
-    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
+    url: "/assets/images/projects/rhionaeschna_variegata/DSC_0434.JPG"
+    alt: "COMPLETAR"
+    sub: "COMPLETAR"
   
 ---
 <p><i>Rhionaeschna variegata</i> completar </p>
