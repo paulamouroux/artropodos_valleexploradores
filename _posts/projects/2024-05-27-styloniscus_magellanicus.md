@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Styloniscus magellanicus"
-  type:"Isopoda"
+  type: "Isopoda"
   subfilo: "Hexapoda"
   orden: "Isopoda"
   familia: "Styloniscidae"
