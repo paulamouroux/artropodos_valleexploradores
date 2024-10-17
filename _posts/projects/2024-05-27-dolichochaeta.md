@@ -15,15 +15,15 @@ project:
   logo: "/assets/images/projects/dolichochaeta/logo.png"
 
 agency:
-  distribucion: "COMPLETAR"
-  estatuto: "COMPLETAR"
-  conservacion: "COMPLETAR"
+  distribucion: "Chile"
+  estatuto: "Nativo"
+  conservacion: "Desconocido"
 
 images:
   - image:
     url: "/assets/images/projects/dolichochaeta/DSC_0054_Anostostomatidae.jpg"
-    alt: "COMPLETAR"
-    sub: "COMPLETAR"
+    alt: ""
+    sub: ""
   
 ---
-<p><i>Dolichochaeta</i> completar </p>
+<p>El género <i>Dolichochaeta</i>, pertenece a la misma familia que incluye especies conocidas como grillos arbóreos o grillos gigantes. Son insectos nocturnos que presentan su mayor actividad durante la noche.</p>
