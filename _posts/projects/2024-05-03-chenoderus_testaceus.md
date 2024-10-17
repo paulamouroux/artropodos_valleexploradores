@@ -7,7 +7,7 @@ meta:
   keywords: ""
 
 project:
-  title: "Chenoderus testaceus"
+  title: "<i>Chenoderus testaceus</i>"
   type: "Coleoptera"
   subfilo: "Hexapoda"
   orden: "Coleoptera"
