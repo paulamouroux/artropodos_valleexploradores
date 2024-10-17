@@ -17,7 +17,7 @@ project:
 agency:
   distribucion: "Mundial"
   estatuto: "Introducido"
-  conservacion: "-"
+  conservacion: "Sin riesgo"
 
 images:
   - image:
