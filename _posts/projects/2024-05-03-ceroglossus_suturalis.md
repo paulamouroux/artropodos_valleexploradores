@@ -17,7 +17,7 @@ project:
 agency:
   distribucion: "Chile y Argentina"
   estatuto: "Nativo"
-  conservacion: "-"
+  conservacion: "Desconocido"
 
 images:
   - image:
@@ -27,4 +27,4 @@ images:
   
   
 ---
-<p><i>Ceroglossus suturalis</i></p>
+<p><i>Ceroglossus suturalis</i></p>, es un escarabajo nativo del sur de Chile y Argentina, conocido por su cuerpo alargado y metálico, con tonalidades verdes. En los últimos años su hábitat ha sido afectado por la deforestación y la introducción de especies exóticas.
