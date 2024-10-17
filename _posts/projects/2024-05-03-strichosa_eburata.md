@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Strichosa eburata"
+  title: "<i>Strichosa eburata</i>"
   type: "Coleoptera"
   subfilo: "Hexapoda"
   orden: "Coleoptera"
@@ -22,9 +22,9 @@ agency:
 images:
   - image:
     url: "/assets/images/projects/strichosa_eburata/large.jpg"
-    alt: "des"
+    alt: "COMPLETAR"
     sub: "COMPLETAR"
   
   
 ---
-<p><i>nombre comun</i></p>, COMPLETAR
+<p><i>Strichosa eburata</i></p>, COMPLETAR
