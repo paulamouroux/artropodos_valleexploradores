@@ -23,7 +23,7 @@ images:
   - image:
     url: "/assets/images/projects/semiotus_luteipennis/original.jpg"
     alt: "COMPLETAR"
-    sub: "COMPLETAR"
+    sub: ""
   
   
 ---
