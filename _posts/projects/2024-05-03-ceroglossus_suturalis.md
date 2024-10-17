@@ -7,7 +7,7 @@ meta:
   keywords: ""
 
 project:
-  title: "Ceroglossus suturalis"
+  title: "<i>Ceroglossus suturalis</i>"
   type: "Coleoptera"
   subfilo: "Hexapoda"
   orden: "Coleoptera"
