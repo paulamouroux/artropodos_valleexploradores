@@ -17,7 +17,7 @@ project:
 agency:
   distribucion: "Chile"
   estatuto: "Endémico"
-  conservacion: "COMPLETAR"
+  conservacion: "Desconocido"
 
 images:
   - image:
@@ -30,4 +30,4 @@ images:
     sub: "Macho"
   
 ---
-<p><i>Heteromallus spinifer</i> completar </p>
+<p><i>Heteromallus spinifer</i> estos insectos son principalmente nocturnos, se alimentan de material vegetal, aprovechando materia orgánica en descomposición. Al ser parte de los ecosistemas de matorral y bosque, cumplen un rol importante en el ciclo de nutrientes de estos ambientes. </p>
