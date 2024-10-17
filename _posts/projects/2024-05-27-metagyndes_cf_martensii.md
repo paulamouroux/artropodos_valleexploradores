@@ -9,7 +9,7 @@ meta:
 project:
   title: "Metagyndes cf martensii"
   type: "Opiliones"
-  subfilo: "Hexapoda"
+  subfilo: "Chelicerata"
   orden: "Opiliones"
   familia: "Gonyleptidae"
   logo: "/assets/images/projects/metagyndes_cf_martensii/logo.png"
