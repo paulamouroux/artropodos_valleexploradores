@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Ditomotarsus hyadesi"
+  title: "<i>Ditomotarsus hyadesi</i>"
   type: "Hemiptera"
   subfilo: "Hexapoda"
   orden: "Hemiptera"
