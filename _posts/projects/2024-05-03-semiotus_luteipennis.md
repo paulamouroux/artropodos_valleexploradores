@@ -15,8 +15,8 @@ project:
   logo: "/assets/images/projects/semiotus_luteipennis/logo2.png"
 
 agency:
-  distribucion: "Mundial"
-  estatuto: "Introducido"
+  distribucion: "Chile y Argentina"
+  estatuto: "Nativo"
   conservacion: "-"
 
 images:
@@ -27,4 +27,4 @@ images:
   
   
 ---
-<p><i>Semiotus luteipennis</i></p>
+<p><i>Semiotus luteipennis</i>también conocido como Hachador, se encuentra en el Bosque Valdiviano, comúnmente sobre Araucarias. Se alimenta de larvas de coleópteros, como escarabajos y cerambícidos, que habitan en troncos en descomposición. Estos entornos, ricos en madera en descomposición, son donde sus larvas y pupas se desarrollan. Además, se ha observado en galerías superficiales en árboles vivos de Radal y Coigüe</p>
