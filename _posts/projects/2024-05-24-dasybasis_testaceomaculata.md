@@ -16,14 +16,14 @@ project:
 
 agency:
   distribucion: "Chile, Argentina"
-  estatuto: "COMPLETAR"
-  conservacion: "COMPLETAR"
+  estatuto: "Nativo"
+  conservacion: "Desconocido"
 
 images:
   - image:
     url: "/assets/images/projects/dasybasis_testaceomaculata/large.jpeg"
     alt: "COMPLETAR"
-    sub: "COMPLETAR"
+    sub: "Mosca sujeta con alfiler entomológico"
   
 ---
-<p><i>Dasybasis testaceomaculata</i> completar </p>
+<p><i>Dasybasis testaceomaculata</i> es un insecto perteneciente a la familia Tabanidae conocida comunmente por incluir a los tábanos insectos hematófagos. El cuerpo de este insecto es de tonalidades claras, con un abdomen segmentado y translúcido. Las alas también son translúcidas y presentan venación visible, una característica típica de los dípteros.</p>
