@@ -16,13 +16,13 @@ project:
 
 agency:
   distribucion: "Chile, Argentina"
-  estatuto: "Introducido"
-  conservacion: "En Peligro"
+  estatuto: "Nativo"
+  conservacion: "Desconocido"
 
 images:
   - image:
     url: "/assets/images/projects/ditomotarsus_hyadesi/DSC_0443.JPG"
-    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
-  
+    alt: ""
+    sub:
 ---
-<p><i>Ditomotarsus hyadesi</i> completar </p>
+<p><i>Ditomotarsus hyadesi</i>, es un insecto con coloración verde metálica. Tiene alas plegadas que cubren el abdomen, con una sección posterior marrón o amarillenta que contrasta con el resto del cuerpo. Sus patas son largas y delgadas, adaptadas para moverse entre la vegetación. Se alimenta de savia de plantas, utilizando su aparato bucal especializado.</p>
