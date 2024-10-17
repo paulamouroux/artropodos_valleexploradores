@@ -20,9 +20,9 @@ agency:
 
 images:
   - image:
-    url: "assets/images/projects/traychirus/DSC_0033_Opilión (Thrasychirus sp.).jpg"
-    alt: "COMPLETAR"
-    sub: "COMPLETAR"
+    url: "/assets/images/projects/traychirus/opilion.jpg"
+    alt: ""
+    sub: ""
   
 ---
 <p><i>Traychirus</i> completar </p>
