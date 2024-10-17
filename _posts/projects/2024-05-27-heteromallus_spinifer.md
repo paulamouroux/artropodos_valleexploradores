@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Heteromallus spinifer"
+  title: "<i>Heteromallus spinifer</i>"
   type: "Orthoptera"
   subfilo: "Hexapoda"
   orden: "Orthoptera"
