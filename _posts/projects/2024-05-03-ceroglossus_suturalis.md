@@ -23,7 +23,7 @@ images:
   - image:
     url: "/assets/images/projects/ceroglossus_suturalis/original1.jpeg"
     alt: "leyenda"
-    sub: "DESCRIPCION"
+    sub: "Escarabajo sobre corteza de árbol"
   
   
 ---
