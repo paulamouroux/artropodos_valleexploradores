@@ -26,4 +26,4 @@ images:
     sub: ""
   
 ---
-<p><i>Styloniscus magellanicus</i>, es un crustáceo que se caracteriza por su cuerpo segmentado, de color marrón oscuro, adaptado a la vida en ambientes húmedos y ricos en materia orgánica en descomposición, como troncos caídos o suelos forestalesy agrícolas.</p>
+<p><i>Styloniscus magellanicus</i>, es un crustáceo que se caracteriza por su cuerpo segmentado, de color marrón oscuro, adaptado a la vida en ambientes húmedos y ricos en materia orgánica en descomposición, como troncos caídos o suelos forestales y agrícolas.</p>
