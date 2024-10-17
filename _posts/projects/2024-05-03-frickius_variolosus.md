@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Frickius variolosus"
+  title: "<i>Frickius variolosus</i>"
   type: "Coleoptera"
   subfilo: "Hexapoda"
   orden: "Coleoptera"
@@ -22,8 +22,8 @@ agency:
 images:
 - image:
   url: "/assets/images/projects/frickius_variolosus/DSC_0464.JPG"
-  alt: "Obrera del abejorro europeo forrajeando flores de lupino"
-  sub: "Obrera del abejorro europeo robando nectar de flores de Fuchsia magallanica"
+  alt: "COMPLETAR"
+  sub: "COMPLETAR"
    
 ---
-<p><i>nombre comun </i></p>
+<p><i>Frickius variolosus</i></p>, COMPLETAR
