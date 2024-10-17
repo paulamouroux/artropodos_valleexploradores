@@ -7,7 +7,7 @@ meta:
   keywords: ""
 
 project:
-  title: "Semiotus luteipennis"
+  title: "<i>Semiotus luteipennis</i>"
   type: "Coleoptera"
   subfilo: "Hexapoda"
   orden: "Coleoptera"
@@ -22,9 +22,9 @@ agency:
 images:
   - image:
     url: "/assets/images/projects/semiotus_luteipennis/original.jpg"
-    alt: "Obrera del abejorro europeo forrajeando flores de lupino"
-    sub: "Obrera del abejorro europeo robando nectar de flores de Fuchsia magallanica"
+    alt: "COMPLETAR"
+    sub: "COMPLETAR"
   
   
 ---
-<p><i>nombre comun </i></p>
+<p><i>Semiotus luteipennis</i></p>
