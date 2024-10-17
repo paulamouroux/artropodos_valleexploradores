@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Dasybasis testaceomaculata"
+  title: "<i>Dasybasis testaceomaculata</i>"
   type: "Diptera"
   subfilo: "Hexapoda"
   orden: "Diptera"
