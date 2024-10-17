@@ -17,14 +17,13 @@ project:
 agency:
   distribucion: "Mundial"
   estatuto: "Introducido"
-  conservacion: "COMPLETAR"
+  conservacion: "Menor preocupación"
 
 images:
   - image:
     url: "/assets/images/projects/tipulidae/DSC_0045_Tipulidae.jpg"
-    alt: "COMPLETAR"
-    sub: "COMPLETAR"
+    alt: ""
+    sub: ""
   
 ---
-<p><i>nombre especie</i> completar </p>
-
+<p>La familia Tipulidae, comúnmente conocida como moscas grúa, incluye insectos de cuerpo alargado y patas extremadamente largas, que les dan un aspecto delicado. Se encuentran en diversas partes del mundo, incluidas zonas húmedas de Sudamérica. A pesar de su apariencia similar a los mosquitos, las moscas grúa no pican ni se alimentan de sangre y cumplen la función de polinizadores.</p>
