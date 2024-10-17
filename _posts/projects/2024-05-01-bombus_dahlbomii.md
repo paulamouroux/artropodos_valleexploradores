@@ -18,7 +18,7 @@ project:
 agency:
   distribucion: "America del Sur"
   estatuto: "Nativo"
-  year: "2017"
+  conservacion: "En peligro"
 
 images:
   - image:
@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/bombus_dahlbomii/image2.jpg"
     alt: "Abejorro chilena reina saliendo de una flor de dedalera"
 ---
-<p><i>Bombus dahlbomii</i>, también llamado abejorro chileno o moscardon, es una especie nativa de Chile.</p>
+<p><i>Bombus dahlbomii</i>, también conocido como abejorro chileno o moscardón, es conocido por ser el más grande del mundo. Su cuerpo es robusto, con un característico pelaje anaranjado brillante. Si bien, cumple un rol importante en la polinización de plantas nativas, el abejorro chileno ha visto su población reducida debido a la llegada de abejorros introducidos.</p>
