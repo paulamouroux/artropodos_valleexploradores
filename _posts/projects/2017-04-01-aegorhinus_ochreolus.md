@@ -17,7 +17,7 @@ project:
 agency:
   distribucion: "Chile, Argentina"
   estatuto: "Nativo"
-  conservacion: "En Peligro"
+  conservacion: "Desconocido"
   
 images:
   - image:
